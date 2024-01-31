@@ -1,0 +1,260 @@
+body {
+  margin: 0 auto;
+}
+.contenir {
+  max-width: 1600px;
+  margin: 0 auto;
+}
+/* nav */
+.exit {
+  width: 100%;
+  height: 25px;
+  background-color: #394a60;
+}
+.home-telegram {
+  width: 75px;
+  height: 96vh;
+  background-color: #1f2936;
+  float: left;
+}
+.fa-bars {
+  font-size: 20px;
+  color: #b4c8e7;
+}
+.bars {
+  font-size: 18px;
+  padding: 15px 28px;
+  background-color: #1f2936;
+  border: none;
+}
+.bars:hover {
+  font-size: 18px;
+  padding: 15px 28px;
+  background-color: #59677d;
+  border: none;
+}
+.comments {
+  font-size: 18px;
+  padding: 5px 16px;
+  background-color: #1f2936;
+  border: none;
+}
+.comments:hover {
+  font-size: 18px;
+  padding: 5px 16px;
+  background-color: #59677d;
+  border: none;
+}
+.fa-comments {
+  font-size: 20px;
+  color: #b4c8e7;
+}
+p {
+  font-size: 11px;
+  color: #b4c8e7;
+}
+a {
+  text-decoration: none;
+}
+.user {
+  font-size: 18px;
+  padding: 5px 20px;
+  background-color: #1f2936;
+  border: none;
+}
+.user:hover {
+  font-size: 18px;
+  padding: 5px 20px;
+  background-color: #59677d;
+  border: none;
+}
+.fa-user {
+  font-size: 20px;
+  color: #b4c8e7;
+}
+.group {
+  font-size: 18px;
+  padding: 5px 19px;
+  background-color: #1f2936;
+  border: none;
+}
+.group:hover {
+  font-size: 18px;
+  padding: 5px 19px;
+  background-color: #59677d;
+  border: none;
+}
+.fa-user-group {
+  font-size: 20px;
+  color: #b4c8e7;
+}
+.robot {
+  font-size: 18px;
+  padding: 5px 25px;
+  background-color: #1f2936;
+  border: none;
+}
+.robot:hover {
+  font-size: 18px;
+  padding: 5px 25px;
+  background-color: #59677d;
+  border: none;
+}
+.fa-robot {
+  font-size: 20px;
+  color: #b4c8e7;
+}
+.Edit {
+  font-size: 18px;
+  padding: 5px 27px;
+  background-color: #1f2936;
+  border: none;
+}
+.Edit:hover {
+  font-size: 18px;
+  padding: 5px 27px;
+  background-color: #59677d;
+  border: none;
+}
+.fa-sliders {
+  font-size: 20px;
+  color: #b4c8e7;
+}
+/* /nav */
+/* main */
+.telegram-mein {
+  width: 320px;
+  height: 96vh;
+  background-color: #2d3a4a;
+  float: left;
+}
+.telegram-all-contact {
+  width: 320px;
+  height: 83.5ch;
+  overflow-y: hidden;
+}
+.telegram-all-contact:hover {
+  width: 320px;
+  height: 83.5ch;
+  overflow-y: scroll;
+}
+
+.search {
+  width: 270px;
+  height: 40px;
+  margin-left: 20px;
+  margin-top: 10px;
+  border-radius: 30px;
+  padding-left: 20px;
+  background-color: #1f2936;
+  border: none;
+  color: white;
+  outline: none;
+}
+.Akam-picture {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin-top: 10px;
+  margin-left: 10px;
+  box-shadow: 0px 5px 5px blue, 0px 0px 10px yellow;
+}
+.togam-picture {
+  width: 50px;
+  height: 50px;
+  border-radius: 50px;
+  margin-top: 10px;
+  margin-left: 10px;
+  outline: 3px solid rgb(8, 8, 219);
+}
+.content1 {
+  width: 300px;
+  background-color: #2d3a4a;
+}
+.content1:hover {
+  width: 300px;
+  background-color: #34465d;
+  box-shadow: 0px 0px 20px rgb(255, 255, 255), 0px 0px 30px blue;
+}
+.telegram-contact {
+  position: relative;
+  top: -35px;
+  left: 10px;
+  font-size: 16px;
+  color: white;
+}
+.clock {
+  position: relative;
+  top: -55px;
+  font-size: 16px;
+  color: #929fb0;
+  float: right;
+}
+.aside {
+  background-color: #1f2936;
+  width: 100%;
+  height: 50px;
+}
+.text-write {
+  background-color: #283343;
+  width: 100%;
+  height: 84vh;
+}
+.AWS-18 {
+  font-size: 13px;
+  font-family: sans-serif;
+  color: white;
+  margin-left: 20px;
+  padding-top: 10px;
+  float: left;
+}
+.send {
+  width: 100%;
+  height: 40px;
+  background-color: #1f2936;
+}
+.feds {
+  margin-top: px;
+}
+.class1 {
+  color: rgb(162, 157, 157);
+  margin-left: 970px;
+}
+.class {
+  color: rgb(162, 157, 157);
+  margin-left: 20px;
+}
+.class3 {
+  color: #a1a2a3;
+  font-size: 21px;
+  margin-left: 10px;
+}
+.class4 {
+  color: #a1a4a8;
+  font-size: 20px;
+  margin-left: 20px;
+}
+.class5 {
+  color: #a1a4a8;
+  font-size: 20px;
+  margin-left: 30px;
+}
+.magic {
+  padding-top: 13px;
+}
+.members {
+  float: left;
+  color: rgb(177, 169, 169);
+  margin-left: 20px;
+}
+.online {
+  color: aqua;
+}
+textarea {
+  background-color: #1f2936;
+  border: none;
+  outline: none;
+  padding-left: 20px;
+  padding-top: 15px;
+  color: white;
+}
